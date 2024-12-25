@@ -1,6 +1,17 @@
 name: TC999 的规则
 Roaming:
   # 示例：文件夹名: "描述"
+  360zip: "360压缩 配置文件"
+  3aTrustTray: "零信任 配置文件"
+  AMD: "AMD 配置文件"
+  Adobe: "Adobe 配置文件"
+  pcsuite: "VIVO办公助手 配置文件"
+  Oray: "向日葵 配置文件"
+  Netease: "网易 配置文件"
+  miHoYo: "米哈游 配置文件"
+  kingsoft: "金山软件（比如WPS） 配置文件"
+  ecloud: "天翼云盘 配置文件"
+  EldenRing: "老头环 存档云配置文件"
   Code: "VSCode 用户数据"
   pip: "pip 网络配置文件"
   iSlide: "MSPPT iSlide 插件数据"
