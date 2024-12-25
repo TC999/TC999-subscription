@@ -11,3 +11,9 @@
 
 # 注意
 这不是最终内容。后续会开放，由各第三方维护
+
+# 💝 鸣谢所有贡献者
+
+<a href="https://github.com/pz328" title="pz328">
+  <img src="https://avatars.githubusercontent.com/u/45734795?v=4" width="42;" alt="pz328"/>
+</a>
