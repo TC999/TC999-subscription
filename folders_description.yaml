@@ -13,6 +13,7 @@ Roaming:
   ecloud: "天翼云盘 配置文件"
   EldenRing: "老头环 存档云配置文件"
   Code: "VSCode 用户数据"
+  #Visual Studio Setup: "VSCode的用户配置文件"
   pip: "pip 网络配置文件"
   iSlide: "MSPPT iSlide 插件数据"
   Mozilla: "Firefox"
@@ -26,6 +27,8 @@ Roaming:
   TypeEasyData: "金山打字通用户数据"
   VMWare: "VMWare 配置文件"
   zen: "Zen 浏览器网络配置"
+  BdTranslateClient: "百度翻译的缓存文件"
+  io.github.clash-verge-rev.clash-verge-rev: "clash verge 软件数据文件"
 Local:
   # 示例：文件夹名: "描述"
   AutumnBox.GUI: "秋之盒配置文件"
@@ -43,5 +46,7 @@ Local:
   obsidian-updater: "Obsidian 升级程序"
   zen: "Zen 浏览器用户数据"
   rustdesk: "RustDesk 用户数据"
+  CMakeTools: "CMake 编译工具配置文件"
+  io.github.clash-verge-rev.clash-verge-rev: "clash verge 订阅链接规则文件"
 LocalLow:
   # 示例：文件夹名: "描述"
