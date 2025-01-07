@@ -13,7 +13,7 @@ Roaming:
   ecloud: "天翼云盘 配置文件"
   EldenRing: "老头环 存档云配置文件"
   Code: "VSCode 用户数据"
-  Visual Studio Setup: "VSCode的用户配置文件"
+  #Visual Studio Setup: "VSCode的用户配置文件"
   pip: "pip 网络配置文件"
   iSlide: "MSPPT iSlide 插件数据"
   Mozilla: "Firefox"
