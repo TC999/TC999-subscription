@@ -1,5 +1,6 @@
 name: TC999 的规则
 Roaming:
+  # 示例：文件夹名: "描述"
   360zip: "360压缩 配置文件"
   3aTrustTray: "零信任 配置文件"
   Adobe: "Adobe 配置文件"
